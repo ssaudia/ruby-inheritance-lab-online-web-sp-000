@@ -1,5 +1,5 @@
 class Student
-class "Steve" < User
+class "Steve" User
   attr_accessor :knowledge
 
 end
